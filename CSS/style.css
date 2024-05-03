@@ -1,0 +1,10 @@
+/* Ini CSS */
+
+.navigation-container {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
